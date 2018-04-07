@@ -18,7 +18,7 @@ public class Main extends JavaPlugin  {
         this.reloadConfig();
         registerEvents((Plugin)this, new Event());
 	}
-	
+
 	
     @SuppressWarnings({ "unchecked", "rawtypes"})
 	public static Main getPlugin() {
