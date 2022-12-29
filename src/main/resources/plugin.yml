@@ -1,4 +1,4 @@
 name: NoPortals
-version: ${project.version}
-main: me.noodles.noportals.Main
-authors: [BGHDDevelopment]
+version: 0.2
+main: com.bghddevelopment.nether.AntiNetherPortals
+author: BGHDDevelopmentLLC
